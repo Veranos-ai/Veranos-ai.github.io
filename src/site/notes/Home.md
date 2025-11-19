@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-11-19T10:19:43.991+07:00","updated":"2025-11-19T10:21:36.286+07:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-11-19T10:19:43.991+07:00","updated":"2025-11-19T10:49:33.008+07:00"}
 ---
 
-![LOGO.png](/img/user/ASSETS/LOGO.png)
 
-## Sovereign House — Opting out of default biology
+![[LOGO.png \| center]]
+
+## Opting out of default biology
 
 **Sovereign House is my personal lab book for becoming a self‑owned human.**
 

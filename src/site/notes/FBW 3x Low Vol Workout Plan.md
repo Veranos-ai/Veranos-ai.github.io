@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fbw-3x-low-vol-workout-plan/","tags":["routines"],"noteIcon":"","created":"2025-11-19T12:13:16.225+07:00","updated":"2025-11-19T12:31:24.900+07:00"}
+{"dg-publish":true,"permalink":"/fbw-3x-low-vol-workout-plan/","created":"2025-11-19T12:13:16.225+07:00","updated":"2025-11-19T13:09:54.237+07:00"}
 ---
 
 
@@ -14,15 +14,16 @@ It's only **3 times per week** so it's pretty easy to keep it up, works for Mond
 | Muscle                | Workout A                         | Workout B                                      | Sets | Reps |
 | --------------------- | --------------------------------- | ---------------------------------------------- | ---- | ---- |
 | Chest / Shoulders     | Dumbbell Incline Press            | Smith Shoulder Press / Seated Dumbbell Press   | 2    | 6-10 |
-| Triceps               | Single Arm Tricep Push Down       | Overhead Tricep Cable Extension                | 2    | 6-10 |
+| Triceps               | Single Arm Tricep Push Down       | Overhead Tricep Cable Extension                | 2    | 8-10 |
 | Back                  | Lat Pull Down / Weighted Pull Ups | Cable Row / Chest Support Row                  | 2    | 6-10 |
-| Biceps                | Machine Preacher Curls            | Dumbell Hammer Curls                           | 2    | 6-10 |
-| Rear Shoulder / Traps | Rear Delt Row / Rear delt flys    | Power Shrug / Dumbbell Shrugs / Trap Bar Shrug | 2    | 6-10 |
-| Lateral Shoulder      | Cable Lateral Raise               | Lateral Raise Machine / Dumbell Lateral Raises | 2    | 6-10 |
+| Biceps                | Machine Preacher Curls            | Dumbell Hammer Curls                           | 2    | 8-12 |
+| Rear Shoulder / Traps | Rear Delt Row / Rear delt flys    | Power Shrug / Dumbbell Shrugs / Trap Bar Shrug | 2    | 8-10 |
+| Lateral Shoulder      | Cable Lateral Raise               | Lateral Raise Machine / Dumbell Lateral Raises | 2    | 8-14 |
 | Legs                  | Leg Press                         | Hack Squat                                     | 2    | 6-10 |
-| Forearms              | Reverse Bicep Curl EZ Bar         | Reverse Cable Curls                            | 2    | 6-10 |
-| Abs                   | Decline sit ups                   | Ab Machine                                     | 2    | 4-10 |
- / Gives an alternative exercise I also liked.
+| Forearms              | Reverse Bicep Curl EZ Bar         | Reverse Cable Curls                            | 2    | 8-12 |
+| Abs                   | Decline sit ups                   | Ab Machine                                     | 2    | 8-12 |
+ 
+ " / " Gives an alternative exercise I also liked.
  - The Full Body is worked every workout
  - There is **1 exercise per muscle group**, with **2 sets only** - every workout
 
@@ -37,7 +38,6 @@ I recommend sticking with the **established muscle groups + sets** for each.
 - **Frequency**: HIGH - Every body part 3× per week (train Mon / Wed / Fri).
 - **Volume**: LOW — only 2 HARD working sets per exercise.
 - **Intensity**: HIGH — push to ~1 rep shy of failure on those 2 work sets (RPE ~8–9).
-
 - **Structure**: Alternate Workout A / B (Mon A, Wed B, Fri A — then next week start with B).
 - **Recovery-friendly**: Lots of rest between sessions
 - Cardio may be added if you want, but its not needed. Aim for daily steps for general health  (5,000–10,000).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sovereign-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-11-19T10:19:43.991+07:00","updated":"2025-11-19T11:20:04.844+07:00"}
+{"dg-publish":true,"permalink":"/sovereign-house/","pinned":true,"tags":["gardenEntry"],"created":"2025-11-19T10:19:43.991+07:00","updated":"2025-11-19T11:20:04.844+07:00"}
 ---
 
 

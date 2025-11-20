@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to/how-to-inject-peptides-sub-q/","tags":["peptides","guides"],"created":"2025-11-19T15:35:33.391+07:00","updated":"2025-11-20T14:05:57.008+07:00"}
+{"dg-publish":true,"permalink":"/how-to/how-to-inject-peptides-sub-q/","tags":["peptides","guides"],"created":"2025-11-19T15:35:33.391+07:00","updated":"2025-11-20T14:09:22.259+07:00"}
 ---
 
 **Other Related Pages**:
@@ -13,9 +13,10 @@
 
 **Easy Touch or BD** - sharpest and smoothest
 
-**Needle Gauge**: The higher number is thinner and will be easier/less painful. Anything 29 and higher will be painless.
-  - **31g** most common. Typically, 30-31 choose. Up to 32 can work (careful not to bend)
-  - 29g can work (don't go lower)
+**Needle Gauge**: The higher number is thinner and will be easier/less painful.
+  - Typically, most people use **30g or 31g** ⭐️
+  - Up to 32g can work (careful not to bend)
+  - Anything 29 and higher will be painless. 29g can work, but don't go lower.
 
 **Needle Length**
 - **5/16-Inch (8mm)** - most common.

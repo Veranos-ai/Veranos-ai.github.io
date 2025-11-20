@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to/how-to-reconstitute-dose-peptides/","tags":["peptides","guides"],"created":"2025-11-19T15:18:21.029+07:00","updated":"2025-11-19T15:43:35.527+07:00"}
+{"dg-publish":true,"permalink":"/how-to/how-to-reconstitute-dose-peptides/","tags":["peptides","guides"],"created":"2025-11-19T15:18:21.029+07:00","updated":"2025-11-20T14:14:30.948+07:00"}
 ---
 
 **Other Related Pages**:
@@ -7,7 +7,6 @@
 [[Guides/Peptide Storage\|Peptide Storage]]
 
 -----
-
 
 WATCH:
 [Take Retatrutide the RIGHT Way (Step By Step Instruction Video)](https://www.youtube.com/watch?v=rRordogs8aI)
@@ -18,7 +17,13 @@ WATCH:
 - Dosage recommendations (consistent with my findings)
 - Where to inject
 
-**Easy-to-use calculator for calculator** how much bac water to use and dosing:
+## Supplies
+- Typically, **3ml syringes** (you'll probably be doing 1-3ml BAC water max)
+- Needle length NOT important - **0.5-1 inch is fine**
+- Needle size is LESS important (it's just water) - you can use **25-30g needles**. You can use a bigger 18g, but you risk damaging the vial seal more than you need to.
+
+## Easy-to-use calculator
+Calculate everything automatically:
 https://onlinepeptidecalculator.com
 
 

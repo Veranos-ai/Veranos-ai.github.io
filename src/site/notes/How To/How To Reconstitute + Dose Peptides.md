@@ -4,7 +4,7 @@
 
 **Other Related Pages**:
 [[How To/How to Inject Peptides Sub Q\|How to Inject Peptides Sub Q]]
-[[Guides/Peptide Storage\|Peptide Storage]]
+[[How To/Peptide Storage\|Peptide Storage]]
 
 -----
 

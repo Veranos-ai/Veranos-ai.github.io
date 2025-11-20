@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protocols/reta-rip-cut-protocol-v1/","tags":["protocols"],"created":"2025-11-20T12:22:47.981+07:00","updated":"2025-11-20T12:56:05.112+07:00"}
+{"dg-publish":true,"permalink":"/protocols/reta-rip-cut-protocol-v1/","tags":["protocols"],"created":"2025-11-20T12:22:47.981+07:00","updated":"2025-11-20T22:49:48.160+07:00"}
 ---
 
 
@@ -19,12 +19,14 @@ Linked resources:
 Prep 2–4 weeks → Cut 8–10 weeks → Transition 2–4 weeks 
 
 #### 1. Prep — 2–4 weeks (required)
-- Be at maintenance calories for 2–4 weeks before starting
-- Be on TRT for at least 2–4 weeks before starting (ideally longer)
-- Run FBW x3 week for 2–4 weeks so you are at usual strength level.
 
+Before starting, ensure you have:
+- Been eating maintenance calories for 2–3 weeks before starting
+- (If starting TRT) been on and stable at least a month (ideally longer)
+- Started running [[Protocols/FBW 3x Low Vol Workout Plan\|FBW 3x Low Vol Workout Plan]] 2–4 weeks so you are at usual strength level.
+
+Then:
 - Spend 1 week at **maintenance kcal with Reta at 1 mg/week**.
-- Start the cut only after all items above are complete.
 
 #### 2. Cut — 8–10 weeks
 - Calories: fix at 1,000–1,200 kcal/day (do NOT go below 1,000).
@@ -93,7 +95,7 @@ Stall protocol (if weekly loss stops or slows below goal):
 Targets to lock when constructing your own daily menu:
 - Total kcal: 1,000–1,200 (fix it and repeat the same meals)
 - Protein: ≥120 g/day (aim to meet or exceed this)
-- Fat: ~15–20% of total kcal (keep fat minimal)
+- Fat: ~20–30% of total kcal (keep minimal)
 - Carbs: remainder (mostly from fruit; typically ~200–500 kcal)
 
 Food composition: mostly protein with minimal carbs/fats. Prefer home-cooked or precooked meals to control kcal. 

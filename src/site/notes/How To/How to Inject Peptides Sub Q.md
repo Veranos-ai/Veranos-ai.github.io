@@ -4,7 +4,7 @@
 
 **Other Related Pages**:
 [[How To/How To Reconstitute + Dose Peptides\|How To Reconstitute + Dose Peptides]]
-[[Guides/Peptide Storage\|Peptide Storage]]
+[[How To/Peptide Storage\|Peptide Storage]]
 
 -----
 ## Recommended For Bac Water-based Peps

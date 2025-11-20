@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/protocols/fbw-3x-low-vol-workout-plan/","created":"2025-11-19T12:13:16.225+07:00","updated":"2025-11-19T13:09:54.237+07:00"}
+{"dg-publish":true,"permalink":"/protocols/fbw-3x-low-vol-workout-plan/","created":"2025-11-19T12:13:16.225+07:00","updated":"2025-11-20T22:41:47.662+07:00"}
 ---
 
 
-This is the plan I used very successfully for around 6 months.
+This is a plan I used very successfully for around 6 months.
 
 Specifically, I found it good for:
 - **Cutting/dieting** while maintaining strength + muscle

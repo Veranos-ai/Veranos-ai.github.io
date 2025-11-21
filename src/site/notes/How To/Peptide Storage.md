@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to/peptide-storage/","tags":["peptides","guides"],"created":"2025-11-19T13:10:42.756+07:00","updated":"2025-11-19T14:48:49.509+07:00"}
+{"dg-publish":true,"permalink":"/how-to/peptide-storage/","tags":["peptides","guides"],"created":"2025-11-19T13:10:42.756+07:00","updated":"2025-11-20T23:12:14.305+07:00"}
 ---
 
 
@@ -14,7 +14,7 @@ This gives the longest lifespan with the least risk.
 
 ## 1.  LYOPHILIZED PEPTIDES (DRY POWDER)  
 
-**Fridge:** Best.  
+==**Fridge:** Best. Lasts ages.==
     **Lifespan:** 12–24 months (realistic 24–36 months).
 **Room temp:**  
     **Lifespan:** 3–6 months (realistic 6–12 months).
@@ -28,16 +28,16 @@ This gives the longest lifespan with the least risk.
 
 ## 2. RECONSTITUTED PEPTIDES (BAC WATER ADDED)
 
-- **Fridge only** → **use within 14–30 days** depending on peptide.
+- ==**Fridge only**== → **use within 14–30 days** depending on peptide.
 - **Room temp only briefly** when dosing.
 - **Never freeze once mixed.**
 
 **Quick guidance by class:**
 
-- **GLP-1s:** 30–45 days (realistic 60)
-- **CJC/Mod-GRF:** 14–21 days (realistic 28)
-- **HGH:** 14 days (realistic 21–28)
-- **Fragile peptides (MOTs-C, GHK-Cu):** 10–14 days (realistic 21)
+- **GLP-1s:** 30–60 days
+- **CJC/Mod-GRF:** 14–30 days
+- **HGH:** 14-28 days
+- **Fragile peptides (MOTs-C, GHK-Cu):** 10–21 days
 
 ---
 
@@ -45,10 +45,10 @@ This gives the longest lifespan with the least risk.
 
 **Unopened:**
     - Room temp: **6–12 mo** (realistic 12–18)
-    - Fridge: **12–24 mo** (realistic 24–36)
+    - Fridge: ==**12–24 mo**== (realistic 24–36)
     
 **Opened:**
-    - Room temp: **30 days**
+    - Room temp: **30 days** ()
     - Fridge: **30-60 days**
 
 ^ HOWEVER - many people have reported not keeping it in the fridge and using it for MANY months without issues. 

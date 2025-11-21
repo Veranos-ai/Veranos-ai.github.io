@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/my-logs/reta-cut-aug-25-2025-nov-17-2025/","tags":["logs"],"created":"2025-11-20T14:15:47.065+07:00","updated":"2025-11-20T22:51:44.701+07:00"}
+{"dg-publish":true,"permalink":"/my-logs/reta-cut-aug-25-2025-nov-17-2025/","tags":["logs"],"created":"2025-11-20T14:15:47.065+07:00","updated":"2025-11-21T15:29:44.205+07:00"}
 ---
 
-![before after (10 weeks) copy.jpg](/img/user/ASSETS/before%20after%20(10%20weeks)%20copy.jpg)
-![before after (10 weeks) copy 2.jpg](/img/user/ASSETS/before%20after%20(10%20weeks)%20copy%202.jpg)
-![Before after front.jpg](/img/user/ASSETS/Before%20after%20front.jpg)
+
 ### Initial Goals
 - Duration: 8–10 week 
 - Weight: 92 kg → 80 kg (75 kg MAX)
@@ -92,7 +90,7 @@ Simple maint calculation (BW lbs x 14)
 
 | Meal      | Measured Food                                                |
 | --------- | ------------------------------------------------------------ |
-| Breakdast | 2 eggs + 50 g sourdough bread                                |
+| Breakfast | 2 eggs + 50-100 g sourdough bread                            |
 | Lunch     | 1 egg + 200 g chicken + 150 g rice (OR 230 g sweet potatoes) |
 | Dinner    | 1 egg + 200 g chicken + 150 g rice (OR 230 g sweet potatoes) |
 | Bowl      | 100 g instant oats + 1 banana + honey                        |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to/how-to-reconstitute-dose-peptides/","tags":["peptides","guides"],"created":"2025-11-19T15:18:21.029+07:00","updated":"2025-11-20T14:14:30.948+07:00"}
+{"dg-publish":true,"permalink":"/how-to/how-to-reconstitute-dose-peptides/","tags":["peptides","guides"],"created":"2025-11-19T15:18:21.029+07:00","updated":"2025-11-21T13:37:36.638+07:00"}
 ---
 
 **Other Related Pages**:
@@ -18,9 +18,14 @@ WATCH:
 - Where to inject
 
 ## Supplies
-- Typically, **3ml syringes** (you'll probably be doing 1-3ml BAC water max)
-- Needle length NOT important - **0.5-1 inch is fine**
-- Needle size is LESS important (it's just water) - you can use **25-30g needles**. You can use a bigger 18g, but you risk damaging the vial seal more than you need to.
+
+1. **3ml Syringes** (you'll probably be doing 1-3ml BAC water max)
+2. With **0.5-1 inch** length needles
+3. With **20-25g diameter** - LESS important (it's just water and not injecting)
+
+- For reconstituting lyophilized peptides with bacteriostatic (BAC) water, a **20–21G needle** is the best practical compromise (easy, fast flow with only modest puncture size). 
+- If minimizing stopper damage is your top priority and you don’t mind slower flow, use **23–25G**. 
+
 
 ## Easy-to-use calculator
 Calculate everything automatically:

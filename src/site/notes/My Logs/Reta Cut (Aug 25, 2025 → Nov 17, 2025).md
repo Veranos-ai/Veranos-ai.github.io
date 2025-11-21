@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/my-logs/reta-cut-aug-25-2025-nov-17-2025/","tags":["logs"],"created":"2025-11-20T14:15:47.065+07:00","updated":"2025-11-21T15:29:44.205+07:00"}
+{"dg-publish":true,"permalink":"/my-logs/reta-cut-aug-25-2025-nov-17-2025/","tags":["logs"],"created":"2025-11-20T14:15:47.065+07:00","updated":"2025-11-21T15:30:50.784+07:00"}
 ---
 
-
+![Before after front copy.jpg](/img/user/ASSETS/Before%20after%20front%20copy.jpg)
+![before after (10 weeks) copy.jpg](/img/user/ASSETS/before%20after%20(10%20weeks)%20copy.jpg)
+![before after (10 weeks) copy 2.jpg](/img/user/ASSETS/before%20after%20(10%20weeks)%20copy%202.jpg)
 ### Initial Goals
 - Duration: 8–10 week 
 - Weight: 92 kg → 80 kg (75 kg MAX)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-sauce/reta/","created":"2025-11-21T11:27:08.369+07:00","updated":"2025-11-21T15:42:25.003+07:00"}
+{"dg-publish":true,"permalink":"/the-sauce/reta/","created":"2025-11-21T11:27:08.369+07:00","updated":"2025-11-21T16:06:32.988+07:00"}
 ---
 
 **Go straight to the source. Same factories. Better prices.**
@@ -10,17 +10,19 @@
 
 ## 🚀 **Starter Packs**  _(Test The Sauce)_
 
-| Quantity    | THB / USD      | USDT (15% off) | Total mg |
-| ----------- | -------------- | -------------- | -------- |
-| **1 vial**  | 2,500฿ / $77   | 2,125฿ / $65   | 10mg     |
-| **2 vials** | 4,700฿ / $145  | 3,995฿ / $123  | 20mg     |
-| **3 vials** | 6,700฿ / $206  | 5,695฿ / $175  | 30mg     |
-| **4 vials** | 8,500฿ / $261  | 7,225฿ / $222  | 40mg     |
-| **5 vials** | 10,000฿ / $308 | 8,500฿ / $262  | 50mg     |
+| Quantity     | THB / USD      | USDT (15% off) | Total mg |
+| ------------ | -------------- | -------------- | -------- |
+| **1 x 10mg** | 2,500฿ / $77   | 2,125฿ / $65   | 10mg     |
+| **2 x 10mg** | 4,700฿ / $145  | 3,995฿ / $123  | 20mg     |
+| **3 x 10mg** | 6,700฿ / $206  | 5,695฿ / $175  | 30mg     |
+| **4 x 10mg** | 8,500฿ / $261  | 7,225฿ / $222  | 40mg     |
+| **5 x 10mg** | 10,000฿ / $308 | 8,500฿ / $262  | 50mg     |
 
 💰 **Save 15% paying with Crypto (USDT)**
 
-_Compare: CORLEONE charges 3,000฿ per vial, MM Thailand charges 4,900฿ per vial_
+_Compare: 
+[Siam Peptides](https://siampeptides.com/retatrutide-5mg/) charges 5,900฿ for only 25mg
+[Muscle Mass Thailand](https://www.musclemassthailand.com/product-page/retatrutide-10mg-1) charges 4,900฿ for 10mg, or 30mg for 12,000฿
 
 ---
 
@@ -51,13 +53,13 @@ _Starter packs ideal for first-time users or testing response before committing 
 
 ## 🧬 **Protocol Packs** _(Crypto USDT Only - Factory Direct)_
 
-|Package|USDT Price|Total mg|Save per vial|
-|---|---|---|---|
-|**10 vials**|15,000฿ / $462|100mg|25% off|
-|**20 vials**|28,000฿ / $862|200mg|35% off|
-|**30 vials**|39,000฿ / $1,200|300mg|39% off|
-|**40 vials**|48,000฿ / $1,477|400mg|43% off|
-|**50+ vials**|1,100฿ / $34 per vial|Custom|48% off|
+| Package        | USDT Price            | Total mg | Saving per vial |
+| -------------- | --------------------- | -------- | --------------- |
+| **10 x 10mg**  | 15,000฿ / $462        | 100mg    | 25% off         |
+| **20 x 10mg**  | 28,000฿ / $862        | 200mg    | 35% off         |
+| **30 x 10mg**  | 39,000฿ / $1,200      | 300mg    | 39% off         |
+| **40 x 10mg ** | 48,000฿ / $1,477      | 400mg    | 43% off         |
+| **50+ vials**  | 1,100฿ / $34 per vial | Custom   | 48% off         |
 
 _Available in multiples of 10 only. 48hr advance notice required._
 
@@ -66,11 +68,11 @@ _For committed users running extended protocols - best value on long-term supply
 ---
 ## 💧 **Bacteriostatic Water (10ml)**
 
-|Package|THB / USD|USDT (15% off)|Per vial|
-|---|---|---|---|
-|**1 vial**|200฿ / $6|170฿ / $5|200฿|
-|**5 pack**|800฿ / $25|680฿ / $21|160฿ (20% off)|
-|**10 pack**|1,400฿ / $43|1,190฿ / $37|140฿ (30% off)|
+| Package           | THB / USD    | USDT (15% off) | Per vial       |
+| ----------------- | ------------ | -------------- | -------------- |
+| **1 x 10ml vial** | 200฿ / $6    | 170฿ / $5      | 200฿           |
+| **5 pack**        | 800฿ / $25   | 680฿ / $21     | 160฿ (20% off) |
+| **10 pack**       | 1,400฿ / $43 | 1,190฿ / $37   | 140฿ (30% off) |
 
 💰 **Save 15% paying with Crypto (USDT)**
 

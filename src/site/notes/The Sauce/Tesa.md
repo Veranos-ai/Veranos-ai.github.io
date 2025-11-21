@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-sauce/tesa/","created":"2025-11-21T10:46:56.234+07:00","updated":"2025-11-21T15:49:56.023+07:00"}
+{"dg-publish":true,"permalink":"/the-sauce/tesa/","created":"2025-11-21T10:46:56.234+07:00","updated":"2025-11-21T16:07:03.404+07:00"}
 ---
 
 **Go straight to the source. Same factories. Better prices.**
@@ -7,13 +7,13 @@
 ![Tesa 10 hero.jpg](/img/user/ASSETS/Tesa%2010%20hero.jpg)
 ## 🚀 **Starter Packs**  _(Test The Sauce)_
 
-| Package      | THB / USD      | USDT (15% off) | Duration |
-| ------------ | -------------- | -------------- | -------- |
-| **5 vials**  | 6,200฿ / $191  | 5,270฿ / $162  | ~30 days |
-| **10 vials** | 11,500฿ / $354 | 9,775฿ / $301  | ~60 days |
+| Package                     | THB / USD      | USDT (15% off) | Duration |
+| --------------------------- | -------------- | -------------- | -------- |
+| **5  x 10mg vials** (50mg)  | 6,200฿ / $191  | 5,270฿ / $162  | ~30 days |
+| **10 x 10mg vials** (100mg) | 11,500฿ / $354 | 9,775฿ / $301  | ~60 days |
 
 💰 **Save 15% paying with Crypto (USDT)**
-_Compare: Siam Peptides charges 7,400฿ for 5 vials, 13,900฿ for 10 vials_
+_Compare: [Siam Peptides](https://siampeptides.com/tesamorelin-10mg/) charges 7,400฿ for 5 vials, 13,900฿ for 10 vials_
 
 #### 📏 **Dosing Guide - Trial Packs**
 
@@ -34,14 +34,14 @@ _Trial packs help you assess response before committing to full protocols._
 
 ## 🧬 **Protocol Packs** _(Crypto USDT Only - Factory Direct)_
 
-|Package|USDT Price|Best For|
-|---|---|---|
-|**20 vials**|20,000฿ / $615|8-10 week protocol|
-|**30 vials**|28,500฿ / $877|12 week protocol|
-|**40 vials**|36,000฿ / $1,108|16 week protocol|
-|**50+ vials**|850฿ / $26 per vial|Extended protocols|
+| Package              | USDT Price          | Best For           |
+| -------------------- | ------------------- | ------------------ |
+| **20 x 10mg vials**  | 20,000฿ / $615      | 8-10 week protocol |
+| **30 x 10 mg vials** | 28,500฿ / $877      | 12 week protocol   |
+| **40 x 10mg vials**  | 36,000฿ / $1,108    | 16 week protocol   |
+| **50+ vials**        | 850฿ / $26 per vial | Extended protocols |
 
-_Available in multiples of 10 only.
+Available in multiples of 10 only.
 
 #### 📏  **Dosing Guide - Protocol Packs**
 

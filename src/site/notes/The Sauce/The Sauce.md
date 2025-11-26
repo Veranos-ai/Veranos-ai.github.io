@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-sauce/the-sauce/","created":"2025-11-21T00:01:34.932+07:00","updated":"2025-11-21T15:49:43.923+07:00"}
+{"dg-publish":true,"permalink":"/the-sauce/the-sauce/","created":"2025-11-21T00:01:34.932+07:00","updated":"2025-11-22T14:05:28.690+07:00"}
 ---
 
+![IMG_3792-2.jpg](/img/user/ASSETS/IMG_3792-2.jpg)
 ## What Is This?
 
 The Sauce is your direct supply, from the same pharmaceutical factories that supply hundreds of reputable brands worldwide. While others slap on logos and markup, we buy in bulk directly and pass savings on to you.
@@ -25,7 +26,7 @@ Factory-sealed. Direct supply. Real results.
 ---
 
 ## 🔥 Available Now
-
+![IMG_3790-2.jpg](/img/user/ASSETS/IMG_3790-2.jpg)
 ### [[The Sauce/Reta\|Reta]]
 ### [[The Sauce/Tesa\|Tesa]]
 

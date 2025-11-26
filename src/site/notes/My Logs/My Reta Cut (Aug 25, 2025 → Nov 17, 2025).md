@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-logs/my-reta-cut-aug-25-2025-nov-17-2025/","tags":["logs"],"created":"2025-11-20T14:15:47.065+07:00","updated":"2025-11-21T15:30:50.784+07:00"}
+{"dg-publish":true,"permalink":"/my-logs/my-reta-cut-aug-25-2025-nov-17-2025/","tags":["logs"],"created":"2025-11-20T14:15:47.065+07:00","updated":"2025-11-22T10:54:35.395+07:00"}
 ---
 
 ![Before after front copy.jpg](/img/user/ASSETS/Before%20after%20front%20copy.jpg)
@@ -86,15 +86,15 @@ Simple maint calculation (BW lbs x 14)
 - 2,450 kcal
  
 2,500 kcal Daily
-- Protein 180 g (30%)
-- Carbs 280 g (50%)
-- Fat 60 g (20%)
+- Protein 186 g (32%)
+- Carbs 275 g (47%)
+- Fat 60 g (22%)
 
 | Meal      | Measured Food                                                |
 | --------- | ------------------------------------------------------------ |
-| Breakfast | 2 eggs + 50-100 g sourdough bread                            |
+| Breakfast | 2 eggs + 100 g sourdough bread                               |
 | Lunch     | 1 egg + 200 g chicken + 150 g rice (OR 230 g sweet potatoes) |
 | Dinner    | 1 egg + 200 g chicken + 150 g rice (OR 230 g sweet potatoes) |
 | Bowl      | 100 g instant oats + 1 banana + honey                        |
-| Snack     | 100 g Greek yogurt + 150 g orange + honey                    |
+| Snack     | 100 g Greek style yogurt + 150 g orange + honey              |
 (Not counting vegetables etc)

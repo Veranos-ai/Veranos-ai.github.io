@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-sauce/reta/","created":"2025-11-21T11:27:08.369+07:00","updated":"2025-11-21T16:06:32.988+07:00"}
+{"dg-publish":true,"permalink":"/the-sauce/reta/","created":"2025-11-21T11:27:08.369+07:00","updated":"2025-11-26T16:49:27.683+07:00"}
 ---
 
 **Go straight to the source. Same factories. Better prices.**
@@ -53,13 +53,13 @@ _Starter packs ideal for first-time users or testing response before committing 
 
 ## 🧬 **Protocol Packs** _(Crypto USDT Only - Factory Direct)_
 
-| Package        | USDT Price            | Total mg | Saving per vial |
-| -------------- | --------------------- | -------- | --------------- |
-| **10 x 10mg**  | 15,000฿ / $462        | 100mg    | 25% off         |
-| **20 x 10mg**  | 28,000฿ / $862        | 200mg    | 35% off         |
-| **30 x 10mg**  | 39,000฿ / $1,200      | 300mg    | 39% off         |
-| **40 x 10mg ** | 48,000฿ / $1,477      | 400mg    | 43% off         |
-| **50+ vials**  | 1,100฿ / $34 per vial | Custom   | 48% off         |
+| Package       | USDT Price            | Total mg | Saving per vial |
+| ------------- | --------------------- | -------- | --------------- |
+| **10 x 10mg** | 15,000฿ / $462        | 100mg    | 25% off         |
+| **20 x 10mg** | 28,000฿ / $862        | 200mg    | 35% off         |
+| **30 x 10mg** | 39,000฿ / $1,200      | 300mg    | 39% off         |
+| **40 x 10mg** | 48,000฿ / $1,477      | 400mg    | 43% off         |
+| **50+ vials** | 1,100฿ / $34 per vial | Custom   | 48% off         |
 
 _Available in multiples of 10 only. 48hr advance notice required._
 
